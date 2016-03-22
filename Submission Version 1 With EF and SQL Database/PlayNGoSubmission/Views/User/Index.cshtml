@@ -1,0 +1,30 @@
+﻿@model List<PlayNGoSubmission.Models.user_tbl>
+@{
+    ViewBag.Title = "Play N Go - List of Users";
+    Layout = "~/Views/Shared/_Front.cshtml";
+}
+<br />
+<table class="dataTable">
+    <thead>
+        <tr>
+            <th width="25%">Firstname</th>
+            <th width="25%">Middlename</th>
+            <th width="25%">Lastname</th>
+            <th width="25%">Contact Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.firstname</td>
+                <td>@u.middlename</td>
+                <td>@u.lastname</td>
+                <td>@u.contact_number</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+    
+

@@ -1,0 +1,108 @@
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\PlayNGoSubmission.dll.config
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\PlayNGoSubmission.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\PlayNGoSubmission.pdb
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Antlr3.Runtime.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.SqlServer.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Newtonsoft.Json.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Owin.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Helpers.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Mvc.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Optimization.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Razor.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Deployment.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Razor.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\WebGrease.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.SqlServer.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Helpers.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Mvc.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Optimization.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Razor.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Deployment.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Razor.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Newtonsoft.Json.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Antlr3.Runtime.pdb
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\obj\Debug\PlayNGoSubmission.dll
+c:\users\nelson\documents\visual studio 2013\Projects\PlayNGoSubmission\PlayNGoSubmission\obj\Debug\PlayNGoSubmission.pdb
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\PlayNGoSubmission.dll.config
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\PlayNGoSubmission.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\PlayNGoSubmission.pdb
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Antlr3.Runtime.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.SqlServer.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Core.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Cookies.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Facebook.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Google.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.OAuth.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Twitter.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Web.Infrastructure.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Newtonsoft.Json.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Owin.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Helpers.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Mvc.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Optimization.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Razor.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Deployment.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Razor.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\WebGrease.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\EntityFramework.SqlServer.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Helpers.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Mvc.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Optimization.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.Razor.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Deployment.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\System.Web.WebPages.Razor.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Newtonsoft.Json.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Antlr3.Runtime.pdb
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Core.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Facebook.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Cookies.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.OAuth.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Google.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.Twitter.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\obj\Debug\PlayNGoSubmission.dll
+C:\NelsonN\PlayNGoSubmission\PlayNGoSubmission\obj\Debug\PlayNGoSubmission.pdb
